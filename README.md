@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashfrost1410 a weeb with web development skills 
-- 👀 I’m interested in anime and food.
+- 👀 I’m interested in coding, anime and food.
 - 🌱 I’m currently learning digital art and redux.
-- 💞️ I’m looking to collaborate on yoga application (flutter).
+- 🎯 Hit me anytime for collaboration on any project.
 - 📫 For more : www.yashvadaria.ml
 
 <!---
